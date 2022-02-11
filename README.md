@@ -1,7 +1,6 @@
 # tonicAPI
 
-Simple To-Do list API using .NET framework with a SQL database that tracks true (complete) or false (not complete) of each item
-
+Simple To-Do list API using .NET framework with a SQL database that tracks progress of each item (true = complete and false = not complete)
 ## Endpoints 
 
 - Get ``` GET api/ToDoItems ```
