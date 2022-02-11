@@ -18,4 +18,4 @@ Simple To-Do list API using .NET framework with a SQL database that tracks progr
     
  - Post ``` POST api/ToDoItems ```
     * adds item based on object in json body:
-      * "{"id":1,"itemName":"create to-do API","itemStatus":true}"
+      * "{"itemName":"create to-do API","itemStatus":true}"
