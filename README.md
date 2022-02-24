@@ -1,6 +1,6 @@
 # tonicAPI
 
-Simple To-Do list API using .NET framework with a SQL database that tracks progress of each item (true = complete and false = not complete)
+Simple To-Do list API using NodeJS framework with a SQL database that tracks progress of each item (true = complete and false = not complete)
 ## Routes 
 
 - /api/items: GET, POST
